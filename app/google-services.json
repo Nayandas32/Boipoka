@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "487690961077",
+    "firebase_url": "https://boipoka1-43c2b.firebaseio.com",
+    "project_id": "boipoka1-43c2b",
+    "storage_bucket": "boipoka1-43c2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487690961077:android:bc8462091c178f9999fefc",
+        "android_client_info": {
+          "package_name": "com.example.navtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487690961077-1di9mf46533ao0mnvulsn2j1lkd2tp2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzOtSsos05FWzO65BtwbJZ8ODo4jUmVcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487690961077-1di9mf46533ao0mnvulsn2j1lkd2tp2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

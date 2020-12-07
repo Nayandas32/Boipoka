@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">nav test</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string-array name="distric_name">
+        <item>dhaka</item>
+        <item>cumilla</item>
+        <item>narayangonj</item>
+        <item>feni</item>
+        <item>dhaka1</item>
+        <item>dhaka2</item>
+        <item>dhaka3</item>
+        <item>dhaka4</item>
+        <item>dhaka5</item>
+        <item>dhaka6</item>
+        <item>dhaka7</item>
+        <item>dhaka8</item>
+
+
+    </string-array>
+</resources>
